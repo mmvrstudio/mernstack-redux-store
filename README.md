@@ -9,11 +9,6 @@ Note: Unable to deploy this project. It runs only locally.
     - The users are able to checkout even when they lose connection and view their order history out of checkout. 
     - The users are able to sign up and login into to their account.
 
-#Installation:
-    - npm i
-    - npm start
-
-
 
 Screenshot:
 
