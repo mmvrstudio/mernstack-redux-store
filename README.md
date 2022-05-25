@@ -1,6 +1,6 @@
 #mernstack-redux-store
 
-Note: Unable to deploy this project. It runs only locally. 
+    Note: Unable to deploy this project. It runs only locally. 
 
 #Description: 
 
