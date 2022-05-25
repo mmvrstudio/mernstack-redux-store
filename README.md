@@ -2,7 +2,7 @@
 
     Note: Unable to deploy this project. It runs only locally. 
 
-#Description: 
+Description: 
 
     - This project is a full stack web application using the MERN Stack to create an e-commerce website.
     - This app uses React and Redux with Stripe payments.
@@ -11,6 +11,5 @@
 
 
 Screenshot:
-
 
 <img width="849" alt="SCRedux-store" src="https://user-images.githubusercontent.com/65464431/170345105-9ff878b6-1c00-41f6-b275-03585e1829f9.png">
